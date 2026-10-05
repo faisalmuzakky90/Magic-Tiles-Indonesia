@@ -4,6 +4,14 @@ Game ritme (*rhythm game*) berbasis desktop yang dibangun menggunakan **Java Swi
 
 ---
 
+## 📸 Tampilan Game (Preview)
+
+|<img src="cover/menu.png" width="400" alt="Menu Screen">|<img src="cover/gameplay.png" width="400" alt="Gameplay Screen">|
+| :---: | :---: |
+| **Halaman Menu & Pilih Lagu** | **Halaman Permainan (Gameplay)** |
+
+---
+
 ## 🚀 Fitur Utama
 * **Hybrid Audio System:** Mendukung pemutaran audio berkualitas melalui format `.wav` dan kelancaran sistem menggunakan `MIDI`.
 * **Gameplay Menantang:** Dilengkapi dengan sistem **8 Nyawa** (Health/Lives) yang akan berkurang jika pemain melewatkan ubin (*tiles*).
